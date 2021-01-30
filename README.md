@@ -4,8 +4,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
-//Kimia Naeiji
-//Total Hours spent: 5 hours
+Submitted by :Kimia Naeiji
+Total Hours spent: 5 hours
 
 ## Flix Part 1
 
