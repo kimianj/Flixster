@@ -31,6 +31,7 @@ Submitted by:Kimia Naeiji
 
 ### Notes
 Describe any challenges encountered while building the app.
+One of the challenges I faced was the lay out section.  When I rotated my phone, the pictures were small.  I was able to fix it by chnaging the picture size in the item_movie.xml file. 
 
 ### Open-source libraries used
 
