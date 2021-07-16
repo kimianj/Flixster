@@ -30,7 +30,6 @@ Kimia Naeiji
 
 ### App Walkthough GIF
 
-
 <img src="https://github.com/kimianj/Flixster/blob/master/Flixter2.gif" width=250><br>
 
 ### Notes
